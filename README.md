@@ -1,4 +1,13 @@
-# DA_Project_Supply_Chain
+# Generate Insights to Solve a Supply Chain Issue in FMCG Domain-Data Analysis Project
+This Project was a part of codebasics Resume challenge series. 
+
+## Tools used
+Data Visualization : Power BI
+Database : Ms Excel
+
+# About Project
+
+
 ## Problem Statement
 AtliQ Mart is a growing FMCG manufacturer headquartered in Gujarat, India. It is currently operational in three cities Surat, Ahmedabad and Vadodara. They want to expand to other metros/Tier 1 cities in the next 2 years.
 
