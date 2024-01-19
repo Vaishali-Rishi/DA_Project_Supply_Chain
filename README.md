@@ -2,8 +2,8 @@
 This Project was a part of Codebasics challenge series. 
 
 ## Tools used
-Data Visualization : Power BI
-Database : Ms Excel
+- Data Visualization : Power BI
+- Database : Ms Excel
 
 # About Project
 
